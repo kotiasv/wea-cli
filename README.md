@@ -5,7 +5,7 @@ Weather App inside your console
 
 ## Usage (Windows)
 
-To use the CLI you need to download and add it to Path
+To use the CLI you need to download and add it to Path (to download CLI check the release note)
 
 I suggest you to create folder C:\wea. Then, open cmd and run:
 
